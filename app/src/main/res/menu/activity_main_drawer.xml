@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Communicate">
+        <menu>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_layout"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Layout Code" />
+        <item
+            android:id="@+id/nav_java"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Java Code" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share" />
+        <item
+            android:id="@+id/nav_save"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Save" />
+        <item
+            android:id="@+id/nav_new"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="New" />
+        <item
+            android:id="@+id/nav_open"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Open" />
+    </group>
+        </menu>
+    </item>
+
+    <item android:title="Add to layout">
+        <menu>
+            <!-- need to add id and change the icons -->
+
+            <item
+                android:id="@+id/nav_button"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="Button" />
+            <item
+                android:id="@+id/nav_text"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+        </menu>
+    </item>
+
+</menu>
