@@ -56,16 +56,19 @@
 
             <!-- Large Text -->
             <item
+                android:id="@+id/nav_largetext"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Medium Text-->
             <item
+                android:id="@+id/nav_mediumtext"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Small Text -->
             <item
+                android:id="@+id/nav_smalltext"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
@@ -77,71 +80,85 @@
 
             <!-- Small Button -->
             <item
+                android:id="@+id/nav_smallbutton"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Checkbox -->
             <item
+                android:id="@+id/nav_checkbox"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Switch -->
             <item
+                android:id="@+id/nav_switch"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ToggleButton -->
             <item
+                android:id="@+id/nav_togglebutton"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ImageButton -->
             <item
+                android:id="@+id/nav_imagebutton"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ImageView -->
             <item
+                android:id="@+id/nav_imageview"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ProgressBar (Large) -->
             <item
+                android:id="@+id/nav_progressbarlarge"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ProgressBar (Normal) -->
             <item
+                android:id="@+id/nav_progressbarnormal"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ProgressBar (Small) -->
             <item
+                android:id="@+id/nav_progressbarsmall"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ProgressBar (Horizontal) -->
             <item
+                android:id="@+id/nav_progressbarhorizontal"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- SeekBar -->
             <item
+                android:id="@+id/nav_seekbar"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- RatingBar -->
             <item
+                android:id="@+id/nav_ratingbar"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Spinner -->
             <item
+                android:id="@+id/nav_spinner"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- WebView -->
             <item
+                android:id="@+id/nav_webview"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
@@ -153,66 +170,79 @@
 
             <!-- Plain Text -->
             <item
+                android:id="@+id/nav_plaintextfield"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Person Name -->
             <item
+                android:id="@+id/nav_personname"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Password -->
             <item
+                android:id="@+id/nav_password"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Password (Numeric) -->
             <item
+                android:id="@+id/nav_passwordnumeric"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- E-Mail -->
             <item
+                android:id="@+id/nav_email"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Phone -->
             <item
+                android:id="@+id/nav_phone"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Postal Address -->
             <item
+                android:id="@+id/nav_postaladdress"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Multiline Text -->
             <item
+                android:id="@+id/nav_multilinetext"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Time -->
             <item
+                android:id="@+id/nav_time"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Date -->
             <item
+                android:id="@+id/nav_date"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Number -->
             <item
+                android:id="@+id/nav_number"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Number (Signed) -->
             <item
+                android:id="@+id/nav_numbersigned"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Number (Decimal) -->
             <item
+                android:id="@+id/nav_numberdecimal"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
@@ -222,67 +252,67 @@
     <item android:title="Containers">
         <menu>
 
-            <!-- Number (Decimal) -->
+            <!-- RadioGroup -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ListView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- GridView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ExpandableListView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ScrollView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- HorizontalScrollView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- SearchView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- TabHost -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- SlidingDrawer -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- Gallery -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- VideoView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- TwoLineListItem -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- DataFilter -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
@@ -293,37 +323,37 @@
     <item android:title="Date and Time">
         <menu>
 
-            <!-- Number (Decimal) -->
+            <!-- TextClock -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- AnalogClock -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- DigitalClock -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- Chronometer -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- DatePicker -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- TimePicker -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- CalendarView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
@@ -334,107 +364,107 @@
     <item android:title="Expert">
         <menu>
 
-            <!-- Number (Decimal) -->
+            <!-- Space -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- CheckedTextView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- QuickContactBadge -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ExtractEditText -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- AutoCompleteTextView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- MultiAutoCompleteTextView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- NumberPicker -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ZoomButton -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ZoomControls -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- MediaController -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- GestureOverlayView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- SurfaceView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- TextureView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- StackView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ViewStub -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ViewAnimator -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ViewFlipper -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ViewSwitcher -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- ImageSwitcher -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- TextSwitcher -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
-            <!-- Number (Decimal) -->
+            <!-- AdapterViewFlipper -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
@@ -446,25 +476,25 @@
     <item android:title="Custom">
         <menu>
 
-            <!-- Number (Decimal) -->
+            <!-- <include> -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
 
-            <!-- Number (Decimal) -->
+            <!-- <fragment> -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
 
-            <!-- Number (Decimal) -->
+            <!-- requestFocus -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
 
-            <!-- Number (Decimal) -->
+            <!-- CustomView -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
