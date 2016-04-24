@@ -3,26 +3,39 @@
     <item android:title="Communicate">
         <menu>
     <group android:checkableBehavior="single">
+        <!-- icons need to be changed -->
+
+        <!-- Layout Code -->
         <item
             android:id="@+id/nav_layout"
             android:icon="@drawable/ic_menu_camera"
             android:title="Layout Code" />
+
+        <!-- Java Code -->
         <item
             android:id="@+id/nav_java"
             android:icon="@drawable/ic_menu_gallery"
             android:title="Java Code" />
+
+        <!-- Share (to send the code to wherever) -->
         <item
             android:id="@+id/nav_share"
             android:icon="@drawable/ic_menu_share"
             android:title="Share" />
+
+        <!-- Save -->
         <item
             android:id="@+id/nav_save"
             android:icon="@drawable/ic_menu_camera"
             android:title="Save" />
+
+        <!-- New -->
         <item
             android:id="@+id/nav_new"
             android:icon="@drawable/ic_menu_camera"
             android:title="New" />
+
+        <!-- Open -->
         <item
             android:id="@+id/nav_open"
             android:icon="@drawable/ic_menu_camera"
@@ -31,30 +44,110 @@
         </menu>
     </item>
 
-    <item android:title="Add to layout">
+    <item android:title="Widgets">
         <menu>
-            <!-- need to add id and change the icons -->
+            <!-- need to add id and change the icons. I maybe missing something -->
 
+            <!-- Plain TextView -->
+            <item
+                android:id="@+id/nav_plaintext"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Plain TextView" />
+
+            <!-- Large Text -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Medium Text-->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Small Text -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Button -->
             <item
                 android:id="@+id/nav_button"
                 android:icon="@drawable/ic_menu_slideshow"
                 android:title="Button" />
-            <item
-                android:id="@+id/nav_text"
-                android:icon="@drawable/ic_menu_manage"
-                android:title="Text" />
+
+            <!-- Small Button -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
+
+            <!-- Checkbox -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
+
+            <!-- Switch -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
+
+            <!-- ToggleButton -->
             <item
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
+
+            <!-- ImageButton -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- ImageView -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- ProgressBar (Large) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- ProgressBar (Normal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- ProgressBar (Small) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- ProgressBar (Horizontal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- SeekBar -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- RatingBar -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Spinner -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- WebView -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+
+
+
         </menu>
     </item>
 
