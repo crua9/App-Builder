@@ -145,7 +145,329 @@
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
+        </menu>
+    </item>
 
+    <item android:title="Text Fields">
+        <menu>
+
+            <!-- Plain Text -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Person Name -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Password -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Password (Numeric) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- E-Mail -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Phone -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Postal Address -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Multiline Text -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Time -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Date -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Signed) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+        </menu>
+    </item>
+
+    <item android:title="Containers">
+        <menu>
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+        </menu>
+    </item>
+
+    <item android:title="Date and Time">
+        <menu>
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+        </menu>
+    </item>
+
+    <item android:title="Expert">
+        <menu>
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+        </menu>
+    </item>
+
+
+    <item android:title="Custom">
+        <menu>
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
+
+
+            <!-- Number (Decimal) -->
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Text" />
 
 
         </menu>
