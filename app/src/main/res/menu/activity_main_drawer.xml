@@ -254,66 +254,80 @@
 
             <!-- RadioGroup -->
             <item
+
+                android:id="@+id/nav_radiogroup"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ListView -->
             <item
+                android:id="@+id/nav_ListView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- GridView -->
             <item
+                android:id="@+id/nav_GridView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ExpandableListView -->
             <item
+                android:id="@+id/nav_ExpandableListView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ScrollView -->
             <item
+                android:id="@+id/nav_ScrollView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- HorizontalScrollView -->
             <item
+                android:id="@+id/nav_HorizontalScrollView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- SearchView -->
             <item
+                android:id="@+id/nav_SearchView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- TabHost -->
             <item
+                android:id="@+id/nav_TabHost"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- SlidingDrawer -->
             <item
+                android:id="@+id/nav_SlidingDrawer"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Gallery -->
             <item
+                android:id="@+id/nav_Gallery"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- VideoView -->
             <item
+                android:id="@+id/nav_VideoView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- TwoLineListItem -->
             <item
+                android:id="@+id/nav_TwoLineListItem"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- DataFilter -->
             <item
+                android:id="@+id/nav_DataFilter"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
@@ -325,36 +339,43 @@
 
             <!-- TextClock -->
             <item
+                android:id="@+id/nav_TextClock"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- AnalogClock -->
             <item
+                android:id="@+id/nav_AnalogClock"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- DigitalClock -->
             <item
+                android:id="@+id/nav_DigitalClock"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- Chronometer -->
             <item
+                android:id="@+id/nav_Chronometer"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- DatePicker -->
             <item
+                android:id="@+id/nav_DatePicker"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- TimePicker -->
             <item
+                android:id="@+id/nav_TimePicker"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- CalendarView -->
             <item
+                android:id="@+id/nav_CalendarView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
@@ -366,106 +387,127 @@
 
             <!-- Space -->
             <item
+                android:id="@+id/nav_Space"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- CheckedTextView -->
             <item
+                android:id="@+id/nav_CheckedTextView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- QuickContactBadge -->
             <item
+                android:id="@+id/nav_QuickContactBadge"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ExtractEditText -->
             <item
+                android:id="@+id/nav_ExtractEditText"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- AutoCompleteTextView -->
             <item
+                android:id="@+id/nav_AutoCompleteTextView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- MultiAutoCompleteTextView -->
             <item
+                android:id="@+id/nav_MultiAutoCompleteTextView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- NumberPicker -->
             <item
+                android:id="@+id/nav_NumberPicker"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ZoomButton -->
             <item
+                android:id="@+id/nav_ZoomButton"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ZoomControls -->
             <item
+                android:id="@+id/nav_ZoomControls"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- MediaController -->
             <item
+                android:id="@+id/nav_MediaController"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- GestureOverlayView -->
             <item
+                android:id="@+id/nav_GestureOverlayView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- SurfaceView -->
             <item
+                android:id="@+id/nav_SurfaceView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- TextureView -->
             <item
+                android:id="@+id/nav_TextureView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- StackView -->
             <item
+                android:id="@+id/nav_StackView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ViewStub -->
             <item
+                android:id="@+id/nav_ViewStub"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ViewAnimator -->
             <item
+                android:id="@+id/nav_ViewAnimator"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ViewFlipper -->
             <item
+                android:id="@+id/nav_ViewFlipper"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ViewSwitcher -->
             <item
+                android:id="@+id/nav_ViewSwitcher"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- ImageSwitcher -->
             <item
+                android:id="@+id/nav_ImageSwitcher"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- TextSwitcher -->
             <item
+                android:id="@+id/nav_TextSwitcher"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
             <!-- AdapterViewFlipper -->
             <item
+                android:id="@+id/nav_AdapterViewFlipper"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
@@ -478,24 +520,28 @@
 
             <!-- <include> -->
             <item
+                android:id="@+id/nav_include"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
 
             <!-- <fragment> -->
             <item
+                android:id="@+id/nav_fragment"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
 
             <!-- requestFocus -->
             <item
+                android:id="@+id/nav_requestFocus"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
 
             <!-- CustomView -->
             <item
+                android:id="@+id/nav_CustomView"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Text" />
 
